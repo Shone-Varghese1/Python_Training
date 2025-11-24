@@ -1,5 +1,5 @@
 
-🐍 What is Python?
+What is Python?
 
 High-level language: Focuses on human-readable code rather than machine-level details.
 
@@ -9,7 +9,7 @@ General-purpose: Can be used for web apps, data analysis, machine learning, auto
 
 Multi-paradigm support: Works with procedural, object-oriented, and functional programming styles
 
-📜 Brief History of Python
+ Brief History of Python
 Late 1980s: Developed by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands.
 
 1991: First official release of Python.
@@ -20,7 +20,7 @@ Late 1980s: Developed by Guido van Rossum at Centrum Wiskunde & Informatica (CWI
 
 Today: Python is one of the most popular programming languages globally, powering platforms like YouTube, Instagram, Spotify, Dropbox, Netflix, and Google
 
-🌟Advantages of Python:
+Advantages of Python:
 
 1.Readable and Understandable
 Python uses a clean and simple syntax that closely resembles natural language, making it easy to read and write.
