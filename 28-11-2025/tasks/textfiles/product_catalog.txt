@@ -1,0 +1,5 @@
+  Product                 price
+  laptop                   55000 
+  phone                    22000 
+  mouse                    2000  
+  keyboard                 5000  

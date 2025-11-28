@@ -1,0 +1,31 @@
+
+1: Capital of Kerala:
+
+
+2: Capital of Tamil Nadu:
+
+
+3: Capital of Karnataka:
+
+
+4: Capital of Andhra Pradesh:
+
+
+5: Capital of Telangana:
+
+
+6: Capital of Maharashtra:
+
+
+7: Capital of Gujarat:
+
+
+8: Capital of Rajasthan:
+
+
+9: Capital of Uttar Pradesh:
+
+
+10: Capital of Bihar:
+
+

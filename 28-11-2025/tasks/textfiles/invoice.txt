@@ -1,0 +1,10 @@
+Item: Laptop                  Price:            2400
+Item: Mouse                   Price:             125
+Item: Keyboard                Price:             135
+Item: Monitor                 Price:             440
+Item: USB Cable               Price:              50
+Item: Headphones              Price:             356
+Item: Webcam                  Price:              59
+Item: Printer                 Price:             150
+Item: Desk Lamp               Price:              70
+Item: External HDD            Price:             225

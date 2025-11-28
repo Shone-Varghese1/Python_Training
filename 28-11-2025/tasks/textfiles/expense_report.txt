@@ -1,0 +1,5 @@
+ the Books cost 100 rupees 
+ the Pens cost 25 rupees 
+ the pencils cost 15 rupees 
+ the Markers cost 200 rupees 
+total amount : 340

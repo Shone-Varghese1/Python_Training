@@ -1,0 +1,10 @@
+Name: Alice                  | Phone: 9876543210     
+Name: Bob                    | Phone: 9123456780     
+Name: Charlie                | Phone: 9988776655     
+Name: David                  | Phone: 9090909090     
+Name: Eva                    | Phone: 9871234567     
+Name: Frank                  | Phone: 9765432109     
+Name: Grace                  | Phone: 9654321098     
+Name: Hannah                 | Phone: 9543210987     
+Name: Ian                    | Phone: 9432109876     
+Name: Jack                   | Phone: 9321098765     

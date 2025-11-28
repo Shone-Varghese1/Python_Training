@@ -1,0 +1,3 @@
+pens total: 50
+books total: 200
+papers total: 50
