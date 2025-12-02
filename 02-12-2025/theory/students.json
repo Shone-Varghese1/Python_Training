@@ -1,0 +1,17 @@
+[
+    {
+        "Name":"shone",
+        "Marks":85,
+        "city":"Mumbai"
+    },
+    {
+        "Name":"Rahul",
+        "Marks":92,
+        "city":"Delhi"
+    },
+    {
+        "Name":"John",
+        "Marks":78,
+        "city":"Chennai"
+    }
+]
