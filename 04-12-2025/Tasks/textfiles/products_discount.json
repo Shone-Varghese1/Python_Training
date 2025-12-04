@@ -1,0 +1,142 @@
+[
+    {
+        "id": "P001",
+        "name": "Aurora Bluetooth Speaker",
+        "category": "Audio",
+        "price": 2999.0,
+        "currency": "INR",
+        "stock": 42,
+        "tags": [
+            "bluetooth",
+            "portable",
+            "music"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P002",
+        "name": "Nimbus Wireless Mouse",
+        "category": "Accessories",
+        "price": 899.0,
+        "currency": "INR",
+        "stock": 120,
+        "tags": [
+            "wireless",
+            "usb",
+            "ergonomic"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P003",
+        "name": "Solace Noise-Canceling Headphones",
+        "category": "Audio",
+        "price": 7499.0,
+        "currency": "INR",
+        "stock": 15,
+        "tags": [
+            "over-ear",
+            "noise-canceling",
+            "wireless"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P004",
+        "name": "FlashCharge Power Bank 20000mAh",
+        "category": "Accessories",
+        "price": 2499.0,
+        "currency": "INR",
+        "stock": 60,
+        "tags": [
+            "power",
+            "portable",
+            "fast-charge"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P005",
+        "name": "Vertex 15.6\" Laptop Sleeve",
+        "category": "Accessories",
+        "price": 1299.0,
+        "currency": "INR",
+        "stock": 85,
+        "tags": [
+            "laptop",
+            "sleeve",
+            "water-resistant"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P006",
+        "name": "ZenPad 10.1 Tablet",
+        "category": "Tablets",
+        "price": 18999.0,
+        "currency": "INR",
+        "stock": 30,
+        "tags": [
+            "android",
+            "wifi",
+            "10-inch"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P007",
+        "name": "HyperType Mechanical Keyboard",
+        "category": "Accessories",
+        "price": 3499.0,
+        "currency": "INR",
+        "stock": 25,
+        "tags": [
+            "mechanical",
+            "rgb",
+            "wired"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P008",
+        "name": "Clarity 24\" Monitor",
+        "category": "Monitors",
+        "price": 12999.0,
+        "currency": "INR",
+        "stock": 18,
+        "tags": [
+            "1080p",
+            "ips",
+            "hdmi"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P009",
+        "name": "TrailCam Action Camera",
+        "category": "Cameras",
+        "price": 9999.0,
+        "currency": "INR",
+        "stock": 40,
+        "tags": [
+            "4k",
+            "waterproof",
+            "wide-angle"
+        ],
+        "discount": 5
+    },
+    {
+        "id": "P010",
+        "name": "EchoPlus Smart Assistant",
+        "category": "Smart Home",
+        "price": 5599.0,
+        "currency": "INR",
+        "stock": 50,
+        "tags": [
+            "voice",
+            "smart",
+            "assistant"
+        ],
+        "discount": 5
+    }
+]

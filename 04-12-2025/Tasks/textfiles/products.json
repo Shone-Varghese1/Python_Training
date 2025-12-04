@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": "P001",
+    "name": "Aurora Bluetooth Speaker",
+    "category": "Audio",
+    "price": 2999.00,
+    "currency": "INR",
+    "stock": 42,
+    "tags": ["bluetooth", "portable", "music"]
+  },
+  {
+    "id": "P002",
+    "name": "Nimbus Wireless Mouse",
+    "category": "Accessories",
+    "price": 899.00,
+    "currency": "INR",
+    "stock": 120,
+    "tags": ["wireless", "usb", "ergonomic"]
+  },
+  {
+    "id": "P003",
+    "name": "Solace Noise-Canceling Headphones",
+    "category": "Audio",
+    "price": 7499.00,
+    "currency": "INR",
+    "stock": 15,
+    "tags": ["over-ear", "noise-canceling", "wireless"]
+  },
+  {
+    "id": "P004",
+    "name": "FlashCharge Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 2499.00,
+    "currency": "INR",
+    "stock": 60,
+    "tags": ["power", "portable", "fast-charge"]
+  },
+  {
+    "id": "P005",
+    "name": "Vertex 15.6\" Laptop Sleeve",
+    "category": "Accessories",
+    "price": 1299.00,
+    "currency": "INR",
+    "stock": 85,
+    "tags": ["laptop", "sleeve", "water-resistant"]
+  },
+  {
+    "id": "P006",
+    "name": "ZenPad 10.1 Tablet",
+    "category": "Tablets",
+    "price": 18999.00,
+    "currency": "INR",
+    "stock": 30,
+    "tags": ["android", "wifi", "10-inch"]
+  },
+  {
+    "id": "P007",
+    "name": "HyperType Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 3499.00,
+    "currency": "INR",
+    "stock": 25,
+    "tags": ["mechanical", "rgb", "wired"]
+  },
+  {
+    "id": "P008",
+    "name": "Clarity 24\" Monitor",
+    "category": "Monitors",
+    "price": 12999.00,
+    "currency": "INR",
+    "stock": 18,
+    "tags": ["1080p", "ips", "hdmi"]
+  },
+  {
+    "id": "P009",
+    "name": "TrailCam Action Camera",
+    "category": "Cameras",
+    "price": 9999.00,
+    "currency": "INR",
+    "stock": 40,
+    "tags": ["4k", "waterproof", "wide-angle"]
+  },
+  {
+    "id": "P010",
+    "name": "EchoPlus Smart Assistant",
+    "category": "Smart Home",
+    "price": 5599.00,
+    "currency": "INR",
+    "stock": 50,
+    "tags": ["voice", "smart", "assistant"]
+  }
+]
