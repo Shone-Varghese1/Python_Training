@@ -1,9 +1,9 @@
+
 import pymysql
-conn = pymysql.connect(
-    host='localhost',
-    user='root',
-    password='Emerging@2361',
-    database='company_db')
+
+from db import get_conn
+
+conn = get_conn()
 cursor=conn.cursor()
 cursor.execute('select * from employees')
 rows=cursor.fetchall()

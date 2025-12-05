@@ -1,9 +1,9 @@
+
 import pymysql
-conn = pymysql.connect(
-    host='localhost',
-    user='root',
-    password='Emerging@2361',
-    database='company_db')
+
+from db import get_conn
+
+conn = get_conn()
 try:
     with conn.cursor() as cursor:
         sql = "DELETE FROM employees WHERE emp_id = %s"
