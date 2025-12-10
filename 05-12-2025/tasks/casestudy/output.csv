@@ -1,0 +1,10 @@
+sub_id,customer_name,start_date,expiry_date,created_at,plan_type,days_overdue,next_billing_date,days_left,age_days,status,renewal_value
+1,Aisha Khan,2025-12-05,2026-01-05,2024-12-15 10:30:00,Monthly,0,2026-01-06,31,354,Active,1000
+2,Rahul Sharma,2025-12-04,2026-01-04,2025-01-05 09:45:00,Monthly,0,2026-01-05,30,333,Active,1000
+3,Imran Ali,2025-12-03,2026-01-04,2025-02-10 14:12:00,Monthly,0,2026-01-05,30,297,Active,1000
+4,Meera Iyer,2025-12-02,2026-01-02,2025-03-01 17:05:00,Monthly,0,2026-01-03,28,278,Active,1000
+5,Sanjay Patel,2025-12-03,2026-04-03,2025-02-20 13:00:00,Quarterly,0,2026-04-04,119,287,Active,2700
+6,Shone Varghese,2025-11-04,2025-12-04,2024-12-15 10:30:00,Monthly,1,2025-12-05,-1,354,Expired,1000
+7,David Philip,2025-11-07,2025-12-07,2024-12-15 10:30:00,Monthly,0,2025-12-08,2,354,ExpiringSoon,1000
+8,Derick mark,2025-08-15,2025-12-15,2024-12-15 10:30:00,Quarterly,0,2025-12-16,10,354,Active,2700
+9,Matt Henry,2024-12-17,2025-12-17,2023-12-15 10:30:00,Yearly,0,2025-12-18,12,720,Active,10000
