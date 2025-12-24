@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Task List</title>
+  <style>
+    .task-actions { margin-left: 10px; }
+    .task-actions button { margin-right: 5px; }
+    small { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Task List</h1>
+
+  <!-- Add Task Form -->
+  <form action="{{ url_for('html_add_task') }}" method="POST">
+    <input name="title" placeholder="Task title" required />
+    <input name="description" placeholder="Description (optional)" />
+    <button type="submit">Add Task</button>
+  </form>
+
+  <!-- Displaying Tasks -->
+  <ul>
+    {% if tasks|length == 0 %}
+      <li>No tasks yet</li>
+    {% else %}
+      {% for t in tasks %}
+        <li>
+          <!-- Task Status (Flip) -->
+          <form action="{{ url_for('html_flip_task', task_id=t.id) }}" method="POST" style="display:inline;">
+            <button type="submit">{{ t.status }}</button>
+          </form>
+
+          <!-- Task Title/Description -->
+          <strong>{{ t.title }}</strong>{% if t.description %} — {{ t.description }}{% endif %}
+
+          <!-- Task Edit Form (Only show when task is being edited) -->
+          {% if t.is_editing %}
+            <form action="{{ url_for('html_edit_task', task_id=t.id) }}" method="POST" style="display:inline;">
+              <input name="title" value="{{ t.title }}" required />
+              <input name="description" value="{{ t.description or '' }}" />
+              <button type="submit">Save</button>
+            </form>
+          {% else %}
+            <!-- Task Edit Button (Only show when task is not being edited) -->
+            <form action="{{ url_for('html_edit_task', task_id=t.id) }}" method="POST" style="display:inline;">
+              <button type="submit">Edit</button>
+            </form>
+          {% endif %}
+
+          <!-- Task Delete Form -->
+          <form action="{{ url_for('html_delete_task', task_id=t.id) }}" method="POST" style="display:inline;" onsubmit="return confirm('Are you sure you want to delete this task?');">
+            <button type="submit">Delete</button>
+          </form>
+
+          {% if t.created_at %}
+            <small>Created at: {{ t.created_at }}</small>
+          {% endif %}
+        </li>
+      {% endfor %}
+    {% endif %}
+  </ul>
+
+</body>
+</html>

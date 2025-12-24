@@ -1,0 +1,5 @@
+host="localhost",
+            user="root",
+            password="Emerging@2361",
+            database="todo",
+            use_pure=True
